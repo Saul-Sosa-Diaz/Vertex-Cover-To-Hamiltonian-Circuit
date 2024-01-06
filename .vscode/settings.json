@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "limits": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "span": "cpp",
+        "ostream": "cpp",
+        "cstddef": "cpp",
+        "stdexcept": "cpp",
+        "xtree": "cpp",
+        "set": "cpp"
+    }
+}
